@@ -19,6 +19,7 @@ import java.util.Scanner;
 
 public class Cipher {
 
+
     //Alphabetical table [5x5]
     private static final char[][] ENCRYPTION_TABLE = {
             {'A', 'B', 'C', 'D', 'E'},
